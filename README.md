@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript pitfall: implicit type coercion. The `foo` function, while seemingly simple, produces different results depending on the input types.  The solution showcases how to enforce stricter type checking for better predictability.
